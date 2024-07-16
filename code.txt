@@ -1,0 +1,11 @@
+truffle migrate
+
+npm run start
+
+npm init -f
+
+npm audit fix --force
+
+npm install --save-dev parcel
+
+npm install --save web3 bootstrap
